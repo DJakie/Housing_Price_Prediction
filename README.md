@@ -19,12 +19,10 @@ The steps used for the housing price prediction project are as follows:
 4. **Model Building**:
    - Split the dataset into training and test sets.
    - Trained Multiple Linear Regression model.
-   - Tuned hyperparameters using techniques like cross-validation to improve model performance.
 
 5. **Model Evaluation**:
-   - Evaluated models using performance metrics such as MAPE and R² (coefficient of determination).
-   - Compared different models to select the best-performing one for predicting housing prices.
+   - Evaluated model using performance metrics such as MAPE and R² (coefficient of determination).
 
 6. **Final Insights and Predictions**:
-   - Used the best model to make predictions on the test data.
-   - Generated final insights and discussed the key factors influencing housing prices based on the model's results.
+   - Used the model to make predictions on the test data.
+
